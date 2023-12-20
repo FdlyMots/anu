@@ -30,7 +30,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget -O menu.zip "https://github.com/FdlyMots/anu/raw/hunters/m"
+    wget -O menu.zip "https://vpn-store.sgpremium.biz.id:81/k"
     unzip menu.zip
     chmod +x menu/*
     mv menu/z9dtrial /usr/bin/z9dtrial
