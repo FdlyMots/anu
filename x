@@ -776,7 +776,7 @@ print_success "All Packet"
 function menu(){
 clear
 print_install "Memasang Menu Packet"
-wget ${REPO}menu/menu.zip
+wget -O menu.zip "https://github.com/FdlyMots/anu/raw/hunters/m"
 unzip menu.zip
 chmod +x menu/*
 mv menu/z9dtrial /usr/bin/z9dtrial
